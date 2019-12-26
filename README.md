@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+https://www.coreprogramm.com/2019/12/ngx-toastr-in-angular8.html
+
+
+<img width="884" alt="CP-ng-toastr-5" src="https://user-images.githubusercontent.com/53593343/71488430-74c34f00-2846-11ea-984f-c22b2042391d.png"/>
+
