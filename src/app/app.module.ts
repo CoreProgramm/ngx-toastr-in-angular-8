@@ -5,10 +5,12 @@ import { AppComponent } from './app.component';
 import { MyToastrComponent } from './my-toastr/my-toastr.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ToastrModule } from 'ngx-toastr';
+import { CustomToastrComponent } from './custom-toastr/custom-toastr.component';
 @NgModule({
   declarations: [
     AppComponent,
-    MyToastrComponent
+    MyToastrComponent,
+    CustomToastrComponent
   ],
   imports: [
     BrowserModule,
